@@ -1,5 +1,5 @@
 #CVD 
-![Cvd Diamond Prototype Guide](https://github.com/user-attachments/assets/5283a8c5-1946-4775-b272-246717ef8ab1)
+![Cvd Diamond Prototype ](https://github.com/user-attachments/assets/0f1b2e5d-9930-4cb8-87c8-562eb3ef1cc4)
 
 Lab-Grown Diamond Production: CVD Prototype Guide
 
@@ -26,6 +26,8 @@ Uses methane and hydrogen gases in a vacuum.
 Plasma breaks down gases; carbon deposits on diamond seed.
 
 Controlled, scalable, ideal for electronics and jewelry.
+
+![Cvd Diamond Prototype Guide](https://github.com/user-attachments/assets/5283a8c5-1946-4775-b272-246717ef8ab1)
 
 PART 2: Diamonds for Battery Production
 
