@@ -1,16 +1,13 @@
-#CVD 
+#CVD Lab-Grown Diamond Production: CVD Prototype Guide
 
-![Cvd Diamond type ](https://github.com/user-attachments/assets/bf35a2b7-db06-4c5b-afa4-f9b779489ad7)
-
-![Cvd Diamond Prototype ](https://github.com/user-attachments/assets/0f1b2e5d-9930-4cb8-87c8-562eb3ef1cc4)
-
-Lab-Grown Diamond Production: CVD Prototype Guide
-
-PART 1: Lab-Grown Diamonds for Jewelry and Industry
+PART 1: Lab-Grown Diamonds for Jewelry and Energy Industry
 
 Main Methods
-
+![Cvd Diamond type ](https://github.com/user-attachments/assets/bf35a2b7-db06-4c5b-afa4-f9b779489ad7)
 1. High Pressure High Temperature (HPHT)
+![Cvd Diamond Prototype ](https://github.com/user-attachments/assets/0f1b2e5d-9930-4cb8-87c8-562eb3ef1cc4)
+![Cvd Diamond Process 1](https://github.com/user-attachments/assets/406235aa-4708-48b6-bce5-b7320e142517)
+![Cvd Diamond Process](https://github.com/user-attachments/assets/0630dbe3-e75f-4d2f-81d6-c71017daae96)
 
 Mimics natural conditions in Earth's mantle.
 
