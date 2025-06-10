@@ -4,11 +4,10 @@ PART 1: Lab-Grown Diamonds for Jewelry and Energy Industry
 
 Main Methods
 ![Cvd Diamond type ](https://github.com/user-attachments/assets/bf35a2b7-db06-4c5b-afa4-f9b779489ad7)
-1. High Pressure High Temperature (HPHT)
 ![Cvd Diamond Prototype ](https://github.com/user-attachments/assets/0f1b2e5d-9930-4cb8-87c8-562eb3ef1cc4)
 ![Cvd Diamond Process 1](https://github.com/user-attachments/assets/406235aa-4708-48b6-bce5-b7320e142517)
 ![Cvd Diamond Process](https://github.com/user-attachments/assets/0630dbe3-e75f-4d2f-81d6-c71017daae96)
-
+1. High Pressure High Temperature (HPHT)
 Mimics natural conditions in Earth's mantle.
 
 Seed placed in carbon, subjected to ~5–6 GPa and 1300–1600°C.
@@ -16,6 +15,8 @@ Seed placed in carbon, subjected to ~5–6 GPa and 1300–1600°C.
 Grows diamond via carbon recrystallization.
 
 Suitable for both gem-quality and industrial diamonds.
+
+![Cvd Diamond Prototype Guide](https://github.com/user-attachments/assets/5283a8c5-1946-4775-b272-246717ef8ab1)
 
 2. Chemical Vapor Deposition (CVD)
 
@@ -26,8 +27,6 @@ Uses methane and hydrogen gases in a vacuum.
 Plasma breaks down gases; carbon deposits on diamond seed.
 
 Controlled, scalable, ideal for electronics and jewelry.
-
-![Cvd Diamond Prototype Guide](https://github.com/user-attachments/assets/5283a8c5-1946-4775-b272-246717ef8ab1)
 
 PART 2: Diamonds for Battery Production
 
