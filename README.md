@@ -1,4 +1,6 @@
 #CVD 
+![Cvd Diamond Prototype ](https://github.com/user-attachments/assets/a691536e-763b-4123-a793-fc92cba44a9d)
+
 ![Cvd Diamond Prototype ](https://github.com/user-attachments/assets/0f1b2e5d-9930-4cb8-87c8-562eb3ef1cc4)
 
 Lab-Grown Diamond Production: CVD Prototype Guide
